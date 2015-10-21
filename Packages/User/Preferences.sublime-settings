@@ -1,0 +1,19 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/User/SublimeLinter/desert (SL).tmTheme",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"overlay_scroll_bars": "enabled",
+	"terminal": "iTerm.sh",
+	"theme": "Material-Theme-Darker.sublime-theme"
+}
